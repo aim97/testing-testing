@@ -1,0 +1,19 @@
+{
+  "name": "@aim97/testing-testing",
+  "version": "1.0.0",
+  "description": "just testing Github packages, nothing worth seeing here.",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aim97/testing-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aim97/testing-testing/issues"
+  },
+  "homepage": "https://github.com/aim97/testing-testing#readme"
+}
